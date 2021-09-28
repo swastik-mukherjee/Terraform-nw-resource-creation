@@ -4,7 +4,7 @@ Primary Network Resource Creation in Azure via Terraform
 
 
 ## Installation
-You need install following tools to successfully execute the Terraform code to create infrastructure.
+You need to install following tools to successfully execute the Terraform code to create infrastructure.
 - [Terraform CLI](https://www.terraform.io/downloads.html)
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 - [VS Code Editor](https://code.visualstudio.com/download)
